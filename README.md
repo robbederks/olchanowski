@@ -8,10 +8,12 @@ Let's fix that!
 - [X] 4 stepper drivers
 - [X] Ethernet
 - [ ] Fan control
-- [ ] 3 end stops
+- [X] 3 end stops
 - [ ] "senser"
 - [ ] RGB LED strip control
 - [ ] Heated bed
+  - [X] Driver
+  - [ ] Thermocouple
 - [ ] Power input
 - [ ] Power regulation
 - [ ] USB
@@ -23,7 +25,7 @@ Let's fix that!
 - [ ] Extruder cable
   - [ ] Connector
   - [ ] Stepper
-  - [ ] Heater
+  - [X] Heater
   - [ ] Thermocouple
   - [ ] Senser?
 - [ ] JTAG
