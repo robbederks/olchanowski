@@ -7,15 +7,15 @@ Let's fix that!
 - [X] Processor
 - [X] 4 stepper drivers
 - [X] Ethernet
-- [ ] Fan control
+- [X] Fan control
 - [X] 3 end stops
 - [ ] "senser"
-- [ ] RGB LED strip control
+- [X] RGB LED strip control
 - [ ] Heated bed
   - [X] Driver
   - [ ] Thermocouple
 - [ ] Power input
-- [ ] Power regulation
+- [X] Power regulation
 - [ ] USB
 - [ ] UI cable
   - [ ] OLED panel (UG-5664ALBEF01)
@@ -28,6 +28,9 @@ Let's fix that!
   - [X] Heater
   - [ ] Thermocouple
   - [ ] Senser?
-- [ ] JTAG
-- [ ] ICSP?
+- [X] ICSP: UART
 - [ ] Filament sensor
+- [ ] LEDs
+  - [ ] GPIOs
+  - [ ] Voltage rails
+  - [ ] Heaters
