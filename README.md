@@ -30,3 +30,4 @@ Let's fix that!
   - [ ] Senser?
 - [ ] JTAG
 - [ ] ICSP?
+- [ ] Filament sensor
