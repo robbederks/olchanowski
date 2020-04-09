@@ -12,16 +12,17 @@ Let's fix that!
 - [ ] "senser"
 - [X] RGB LED strip control
 - [ ] Heated bed
-  - [X] Driver
-  - [ ] Thermocouple
+  - [ ] Driver
+  - [X] Thermocouple
 - [ ] Power input
 - [X] Power regulation
-- [ ] USB
-- [ ] UI cable
-  - [ ] OLED panel (UG-5664ALBEF01)
-  - [ ] Beeper
-  - [ ] Rotary encoder
-  - [ ] SD card
+- [X] USB
+- [X] UI cable
+  - [X] Connector
+  - [X] OLED panel (UG-5664ALBEF01)
+  - [X] Beeper
+  - [X] Rotary encoder
+  - [X] SD card
 - [ ] Extruder cable
   - [ ] Connector
   - [ ] Stepper
