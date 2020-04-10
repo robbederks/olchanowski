@@ -11,10 +11,10 @@ Let's fix that!
 - [X] 3 end stops
 - [ ] "senser"
 - [X] RGB LED strip control
-- [ ] Heated bed
-  - [ ] Driver
+- [X] Heated bed
+  - [X] Driver
   - [X] Thermocouple
-- [ ] Power input
+- [X] Power input
 - [X] Power regulation
 - [X] USB
 - [X] UI cable
@@ -24,7 +24,7 @@ Let's fix that!
   - [X] Rotary encoder
   - [X] SD card
 - [ ] Extruder cable
-  - [ ] Connector
+  - [ ] Connector (1-281742-2)
   - [ ] Stepper
   - [X] Heater
   - [ ] Thermocouple
