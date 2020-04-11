@@ -9,7 +9,7 @@ Let's fix that!
 - [X] Ethernet
 - [X] Fan control
 - [X] 3 end stops
-- [ ] "senser"
+- [X] "senser"
 - [X] RGB LED strip control
 - [X] Heated bed
   - [X] Driver
@@ -23,15 +23,15 @@ Let's fix that!
   - [X] Beeper
   - [X] Rotary encoder
   - [X] SD card
-- [ ] Extruder cable
-  - [ ] Connector (1-281742-2)
-  - [ ] Stepper
+- [X] Extruder cable
+  - [X] Connector (1-281742-2)
+  - [X] Stepper
   - [X] Heater
-  - [ ] Thermocouple
-  - [ ] Senser?
+  - [X] Thermocouple
+  - [X] Fans
 - [X] ICSP: UART
-- [ ] Filament sensor
-- [ ] LEDs
-  - [ ] GPIOs
-  - [ ] Voltage rails
-  - [ ] Heaters
+- [X] Filament sensor
+- [X] LEDs
+  - [X] GPIOs
+  - [X] Voltage rail
+  - [X] Heaters
