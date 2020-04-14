@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,20 +53,20 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="58" name="bCAD" color="11" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="58" name="bCAD" color="11" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -20292,6 +20292,22 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <package name="MOUNT-M3">
 <pad name="MNT" x="0" y="0" drill="3.2" diameter="7" thermals="no"/>
 </package>
+<package name="0402" urn="urn:adsk.eagle:footprint:23043/3" locally_modified="yes">
+<description>&lt;b&gt;Chip RESISTOR 0402 EIA (1005 Metric)&lt;/b&gt;</description>
+<wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
+<wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
+<wire x1="-1" y1="0.483" x2="1" y2="0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="0.483" x2="1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="-0.483" x2="-1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="-1" y1="-0.483" x2="-1" y2="0.483" width="0.0508" layer="39"/>
+<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<smd name="2" x="0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.2951" layer="51"/>
+<rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.35" x2="0.1999" y2="0.35" layer="35"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="DFN6" urn="urn:adsk.eagle:package:2653248/1" type="box">
@@ -20618,6 +20634,16 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <pin name="MNT" x="0" y="-7.62" visible="pad" length="middle" rot="R90"/>
 <text x="-3.048" y="3.302" size="1.27" layer="95">&gt;NAME</text>
 </symbol>
+<symbol name="C-EU">
+<wire x1="0" y1="0" x2="0" y2="-0.508" width="0.1524" layer="94"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-2.032" width="0.1524" layer="94"/>
+<text x="1.524" y="0.381" size="1.778" layer="95">&gt;NAME</text>
+<text x="1.524" y="-4.699" size="1.778" layer="96">&gt;VALUE</text>
+<rectangle x1="-2.032" y1="-2.032" x2="2.032" y2="-1.524" layer="94"/>
+<rectangle x1="-2.032" y1="-1.016" x2="2.032" y2="-0.508" layer="94"/>
+<pin name="1" x="0" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="ARJM11D7-009-AB-ER2-T" prefix="J">
@@ -20931,6 +20957,22 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <device name="" package="MOUNT-M3">
 <connects>
 <connect gate="G$1" pin="MNT" pad="MNT"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="C">
+<gates>
+<gate name="G$1" symbol="C-EU" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -23884,7 +23926,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="LPC1769FBD100,551"/>
 </part>
 <part name="FRAME2" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4P-LOC" device=""/>
-<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C1" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23894,7 +23936,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C2" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23910,7 +23952,7 @@ Source: www.kingbright.com</description>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
 <part name="U1" library="borkedlabs-powerics" deviceset="TMC2209" device="-LA"/>
-<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C3" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23920,7 +23962,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="22n"/>
 <attribute name="MPN" value="CC0402KRX7R9BB222"/>
 </part>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C4" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23930,7 +23972,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C5" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23940,7 +23982,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C6" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -23985,7 +24027,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="0.1"/>
 </part>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C8" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24002,7 +24044,7 @@ Source: www.kingbright.com</description>
 <part name="J1" library="B4B-XH-A_LF__SN_" deviceset="B4B-XH-A(LF)(SN)" device="" value="X-AXIS">
 <attribute name="AXIS" value="X"/>
 </part>
-<part name="C9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C9" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24012,7 +24054,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C10" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24023,7 +24065,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C11" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24038,7 +24080,7 @@ Source: www.kingbright.com</description>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U2" library="borkedlabs-powerics" deviceset="TMC2209" device="-LA"/>
-<part name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C12" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24048,7 +24090,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="22n"/>
 <attribute name="MPN" value="CC0402KRX7R9BB222"/>
 </part>
-<part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C13" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24058,7 +24100,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C14" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24068,7 +24110,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C15" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24113,7 +24155,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="0.1"/>
 </part>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C17" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24130,7 +24172,7 @@ Source: www.kingbright.com</description>
 <part name="J2" library="B4B-XH-A_LF__SN_" deviceset="B4B-XH-A(LF)(SN)" device="" value="Y-AXIS">
 <attribute name="AXIS" value="Y"/>
 </part>
-<part name="C18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C18" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24140,7 +24182,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C19" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24151,7 +24193,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
 <part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C20" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24167,7 +24209,7 @@ Source: www.kingbright.com</description>
 <part name="+3V4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="FRAME3" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
 <part name="U3" library="borkedlabs-powerics" deviceset="TMC2209" device="-LA"/>
-<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C21" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24177,7 +24219,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="22n"/>
 <attribute name="MPN" value="CC0402KRX7R9BB222"/>
 </part>
-<part name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C22" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24187,7 +24229,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C23" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C23" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24197,7 +24239,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C24" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24242,7 +24284,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="0.1"/>
 </part>
 <part name="GND31" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C26" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C26" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24259,7 +24301,7 @@ Source: www.kingbright.com</description>
 <part name="J3" library="B4B-XH-A_LF__SN_" deviceset="B4B-XH-A(LF)(SN)" device="" value="Z_AXIS">
 <attribute name="AXIS" value="Z"/>
 </part>
-<part name="C27" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C27" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24269,7 +24311,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C28" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C28" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24280,7 +24322,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
 <part name="GND35" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C29" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C29" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24294,7 +24336,7 @@ Source: www.kingbright.com</description>
 <part name="GND37" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND39" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U4" library="borkedlabs-powerics" deviceset="TMC2209" device="-LA"/>
-<part name="C30" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C30" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24304,7 +24346,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="22n"/>
 <attribute name="MPN" value="CC0402KRX7R9BB222"/>
 </part>
-<part name="C31" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C31" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24314,7 +24356,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C32" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C32" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24324,7 +24366,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C33" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C33" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24369,7 +24411,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="0.1"/>
 </part>
 <part name="GND43" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C35" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C35" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24383,7 +24425,7 @@ Source: www.kingbright.com</description>
 <part name="+3V6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="GND45" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND46" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C36" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C36" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24393,7 +24435,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C37" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C37" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24404,7 +24446,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
 <part name="GND47" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C38" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24462,7 +24504,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="10k"/>
 </part>
 <part name="+3V12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C39" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C39" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24477,7 +24519,7 @@ Source: www.kingbright.com</description>
 <attribute name="L" value="1u"/>
 <attribute name="MPN" value="MLZ1608A1R0WT000"/>
 </part>
-<part name="C40" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C40" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24487,7 +24529,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C41" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C41" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24497,7 +24539,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C42" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C42" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24507,7 +24549,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C43" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C43" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24517,7 +24559,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C44" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C44" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24527,7 +24569,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C45" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C45" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24537,7 +24579,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C46" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C46" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24577,7 +24619,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="100"/>
 </part>
 <part name="GND52" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C47" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C47" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24588,7 +24630,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
 <part name="GND53" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C48" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C48" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24639,7 +24681,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="CRG0402F50R"/>
 <attribute name="R" value="50"/>
 </part>
-<part name="C49" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C49" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24649,7 +24691,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C50" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C50" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24659,7 +24701,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C51" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C51" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24669,7 +24711,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C52" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C52" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24683,7 +24725,7 @@ Source: www.kingbright.com</description>
 <part name="GND56" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND57" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND58" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C53" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C53" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24693,7 +24735,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C54" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C54" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24705,7 +24747,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="GND59" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND60" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C55" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C55" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24715,7 +24757,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="4u7"/>
 <attribute name="MPN" value="GRM155R61A475MEAAD"/>
 </part>
-<part name="C56" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C56" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24727,7 +24769,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="GND61" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND62" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C57" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C57" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24737,7 +24779,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="4u7"/>
 <attribute name="MPN" value="GRM155R61A475MEAAD"/>
 </part>
-<part name="C58" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C58" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24749,7 +24791,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="GND63" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND64" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C59" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C59" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24761,7 +24803,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="GND65" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C60" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C60" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24771,7 +24813,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C61" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C61" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24805,7 +24847,7 @@ Source: www.kingbright.com</description>
 <attribute name="R" value="22"/>
 </part>
 <part name="+3V15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C62" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C62" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24944,7 +24986,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="GND75" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="C63" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C63" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -24954,7 +24996,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C64" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C64" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25096,7 +25138,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="220u"/>
 <attribute name="MPN" value="UCW1V221MNL1GS"/>
 </part>
-<part name="C68" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C68" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25116,7 +25158,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="220u"/>
 <attribute name="MPN" value="UCW1V221MNL1GS"/>
 </part>
-<part name="C72" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C72" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25342,7 +25384,7 @@ Source: www.kingbright.com</description>
 </part>
 <part name="Q9" library="robbe" deviceset="PFET" device="SM" package3d_urn="urn:adsk.eagle:package:2653225/3"/>
 <part name="+3V28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C78" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C78" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25352,7 +25394,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="12p"/>
 <attribute name="MPN" value="GRM1555C1E120GA01D"/>
 </part>
-<part name="C79" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C79" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25379,7 +25421,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="CRG0402F10K"/>
 <attribute name="R" value="10k"/>
 </part>
-<part name="C80" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C80" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25417,7 +25459,7 @@ Source: www.kingbright.com</description>
 <part name="GND116" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND117" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V30" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C82" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C82" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25427,7 +25469,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="4u7"/>
 <attribute name="MPN" value="GRM155R61A475MEAAD"/>
 </part>
-<part name="C83" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C83" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25483,7 +25525,7 @@ Source: www.kingbright.com</description>
 <part name="GND124" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="X7" library="JST_XH" deviceset="JST-XH-03-PIN" device="-LONG-PAD" value="SENSER"/>
 <part name="GND125" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C85" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C85" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25493,7 +25535,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C86" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C86" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25551,7 +25593,7 @@ Source: www.kingbright.com</description>
 <attribute name="AXIS" value="X"/>
 </part>
 <part name="GND128" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C88" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C88" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25572,7 +25614,7 @@ Source: www.kingbright.com</description>
 <part name="GND131" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND132" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V34" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C87" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C87" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25582,7 +25624,7 @@ Source: www.kingbright.com</description>
 <attribute name="C" value="100n"/>
 <attribute name="MPN" value="GRM155R61H104KE19D"/>
 </part>
-<part name="C89" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2">
+<part name="C89" library="robbe" deviceset="C" device="">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -25684,13 +25726,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C1" gate="G$1" x="142.24" y="101.6" smashed="yes">
 <attribute name="NAME" x="143.764" y="101.981" size="1.778" layer="95"/>
-<attribute name="VALUE" x="143.764" y="96.901" size="1.778" layer="96"/>
+<attribute name="VALUE" x="143.764" y="96.901" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="142.24" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="137.668" y="97.282" size="1.778" layer="96"/>
 </instance>
 <instance part="C2" gate="G$1" x="157.48" y="101.6" smashed="yes">
 <attribute name="NAME" x="159.004" y="101.981" size="1.778" layer="95"/>
-<attribute name="VALUE" x="159.004" y="96.901" size="1.778" layer="96"/>
+<attribute name="VALUE" x="159.004" y="96.901" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="152.908" y="97.282" size="1.778" layer="96"/>
 <attribute name="MPN" x="157.48" y="101.6" size="1.778" layer="96" display="off"/>
 </instance>
@@ -25708,7 +25750,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C39" gate="G$1" x="10.16" y="119.38" smashed="yes" rot="R180">
 <attribute name="NAME" x="10.668" y="122.047" size="1.778" layer="95"/>
-<attribute name="VALUE" x="8.636" y="124.079" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="8.636" y="124.079" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="10.16" y="119.38" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="10.668" y="117.602" size="1.778" layer="96"/>
 </instance>
@@ -25723,43 +25765,43 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C40" gate="G$1" x="12.7" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="13.208" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="11.176" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="11.176" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="12.7" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="13.208" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C41" gate="G$1" x="20.32" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.828" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="18.796" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="18.796" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="20.32" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="20.828" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C42" gate="G$1" x="27.94" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="28.448" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="26.416" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="26.416" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="27.94" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="28.448" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C43" gate="G$1" x="35.56" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="36.068" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="34.036" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="34.036" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="35.56" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="36.068" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C44" gate="G$1" x="43.18" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="43.688" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="41.656" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="41.656" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="43.18" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="43.688" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C45" gate="G$1" x="50.8" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="51.308" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="49.276" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="49.276" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="50.8" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="51.308" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C46" gate="G$1" x="58.42" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="58.928" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="56.896" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="56.896" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="58.42" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="58.928" y="41.402" size="1.778" layer="96"/>
 </instance>
@@ -26572,24 +26614,24 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C3" gate="G$1" x="38.1" y="124.46" smashed="yes" rot="R90">
 <attribute name="NAME" x="40.894" y="124.841" size="1.778" layer="95"/>
-<attribute name="VALUE" x="42.799" y="125.984" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="42.799" y="125.984" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="38.1" y="124.46" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="C" x="40.64" y="122.174" size="1.778" layer="96"/>
 </instance>
 <instance part="C4" gate="G$1" x="76.2" y="139.7" smashed="yes" rot="R180">
-<attribute name="NAME" x="73.406" y="142.113" size="1.778" layer="95"/>
+<attribute name="NAME" x="73.406" y="142.113" size="1.778" layer="95" display="off"/>
 <attribute name="VALUE" x="74.676" y="144.399" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="76.2" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="76.962" y="138.176" size="1.778" layer="96"/>
 </instance>
 <instance part="C5" gate="G$1" x="60.96" y="139.7" smashed="yes" rot="R180">
-<attribute name="NAME" x="58.166" y="142.113" size="1.778" layer="95"/>
+<attribute name="NAME" x="58.166" y="142.113" size="1.778" layer="95" display="off"/>
 <attribute name="VALUE" x="59.436" y="144.399" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="60.96" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="61.468" y="137.922" size="1.778" layer="96"/>
 </instance>
 <instance part="C6" gate="G$1" x="53.34" y="139.7" smashed="yes" rot="R180">
-<attribute name="NAME" x="50.546" y="142.113" size="1.778" layer="95"/>
+<attribute name="NAME" x="50.546" y="142.113" size="1.778" layer="95" display="off"/>
 <attribute name="VALUE" x="51.816" y="144.399" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="53.34" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="53.848" y="137.922" size="1.778" layer="96"/>
@@ -26629,7 +26671,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C8" gate="G$1" x="40.64" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="37.846" y="65.913" size="1.778" layer="95"/>
-<attribute name="VALUE" x="39.116" y="68.199" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="39.116" y="68.199" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="40.64" y="63.5" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="41.148" y="61.722" size="1.778" layer="96"/>
 </instance>
@@ -26651,13 +26693,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C9" gate="G$1" x="114.3" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.062" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="112.776" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="112.776" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="114.3" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="115.316" y="91.44" size="1.778" layer="96"/>
 </instance>
 <instance part="C10" gate="G$1" x="129.54" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="130.302" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="128.016" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="128.016" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="129.54" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="130.556" y="91.44" size="1.778" layer="96"/>
 </instance>
@@ -26666,7 +26708,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C11" gate="G$1" x="104.14" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="104.902" y="78.613" size="1.778" layer="95"/>
-<attribute name="VALUE" x="102.616" y="80.899" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="102.616" y="80.899" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="104.14" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="105.156" y="73.66" size="1.778" layer="96"/>
 </instance>
@@ -26689,25 +26731,25 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C12" gate="G$1" x="157.48" y="124.46" smashed="yes" rot="R90">
 <attribute name="NAME" x="160.274" y="124.841" size="1.778" layer="95"/>
-<attribute name="VALUE" x="162.179" y="125.984" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="162.179" y="125.984" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="157.48" y="124.46" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="C" x="160.02" y="122.174" size="1.778" layer="96"/>
 </instance>
 <instance part="C13" gate="G$1" x="195.58" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="192.786" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="194.056" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="194.056" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="195.58" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="196.342" y="138.176" size="1.778" layer="96"/>
 </instance>
 <instance part="C14" gate="G$1" x="180.34" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="177.546" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="178.816" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="178.816" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="180.34" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="180.848" y="137.922" size="1.778" layer="96"/>
 </instance>
 <instance part="C15" gate="G$1" x="172.72" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="169.926" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="171.196" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="171.196" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="172.72" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="173.228" y="137.922" size="1.778" layer="96"/>
 </instance>
@@ -26746,7 +26788,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C17" gate="G$1" x="160.02" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="157.226" y="65.913" size="1.778" layer="95"/>
-<attribute name="VALUE" x="158.496" y="68.199" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="158.496" y="68.199" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="160.02" y="63.5" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="160.528" y="61.722" size="1.778" layer="96"/>
 </instance>
@@ -26768,13 +26810,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C18" gate="G$1" x="233.68" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="234.442" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="232.156" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="232.156" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="233.68" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="234.696" y="91.44" size="1.778" layer="96"/>
 </instance>
 <instance part="C19" gate="G$1" x="248.92" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="249.682" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="247.396" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="247.396" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="248.92" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="249.936" y="91.44" size="1.778" layer="96"/>
 </instance>
@@ -26783,7 +26825,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C20" gate="G$1" x="223.52" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="224.282" y="78.613" size="1.778" layer="95"/>
-<attribute name="VALUE" x="221.996" y="80.899" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="221.996" y="80.899" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="223.52" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="224.536" y="73.66" size="1.778" layer="96"/>
 </instance>
@@ -27301,25 +27343,25 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C21" gate="G$1" x="38.1" y="124.46" smashed="yes" rot="R90">
 <attribute name="NAME" x="40.894" y="124.841" size="1.778" layer="95"/>
-<attribute name="VALUE" x="42.799" y="125.984" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="42.799" y="125.984" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="38.1" y="124.46" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="C" x="40.64" y="122.174" size="1.778" layer="96"/>
 </instance>
 <instance part="C22" gate="G$1" x="76.2" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="73.406" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="74.676" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="74.676" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="76.2" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="76.962" y="138.176" size="1.778" layer="96"/>
 </instance>
 <instance part="C23" gate="G$1" x="60.96" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="58.166" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="59.436" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="59.436" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="60.96" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="61.468" y="137.922" size="1.778" layer="96"/>
 </instance>
 <instance part="C24" gate="G$1" x="53.34" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="50.546" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="51.816" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="51.816" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="53.34" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="53.848" y="137.922" size="1.778" layer="96"/>
 </instance>
@@ -27358,7 +27400,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C26" gate="G$1" x="40.64" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="37.846" y="65.913" size="1.778" layer="95"/>
-<attribute name="VALUE" x="39.116" y="68.199" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="39.116" y="68.199" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="40.64" y="63.5" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="41.148" y="61.722" size="1.778" layer="96"/>
 </instance>
@@ -27380,13 +27422,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C27" gate="G$1" x="114.3" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.062" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="112.776" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="112.776" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="114.3" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="115.316" y="91.44" size="1.778" layer="96"/>
 </instance>
 <instance part="C28" gate="G$1" x="129.54" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="130.302" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="128.016" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="128.016" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="129.54" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="130.556" y="91.44" size="1.778" layer="96"/>
 </instance>
@@ -27395,7 +27437,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C29" gate="G$1" x="104.14" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="104.902" y="78.613" size="1.778" layer="95"/>
-<attribute name="VALUE" x="102.616" y="80.899" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="102.616" y="80.899" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="104.14" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="105.156" y="73.66" size="1.778" layer="96"/>
 </instance>
@@ -27415,25 +27457,25 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C30" gate="G$1" x="157.48" y="124.46" smashed="yes" rot="R90">
 <attribute name="NAME" x="160.274" y="124.841" size="1.778" layer="95"/>
-<attribute name="VALUE" x="162.179" y="125.984" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="162.179" y="125.984" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="157.48" y="124.46" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="C" x="160.02" y="122.174" size="1.778" layer="96"/>
 </instance>
 <instance part="C31" gate="G$1" x="195.58" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="192.786" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="194.056" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="194.056" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="195.58" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="196.342" y="138.176" size="1.778" layer="96"/>
 </instance>
 <instance part="C32" gate="G$1" x="180.34" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="177.546" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="178.816" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="178.816" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="180.34" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="180.848" y="137.922" size="1.778" layer="96"/>
 </instance>
 <instance part="C33" gate="G$1" x="172.72" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="169.926" y="142.113" size="1.778" layer="95"/>
-<attribute name="VALUE" x="171.196" y="144.399" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="171.196" y="144.399" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="172.72" y="139.7" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="173.228" y="137.922" size="1.778" layer="96"/>
 </instance>
@@ -27472,7 +27514,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C35" gate="G$1" x="160.02" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="157.226" y="65.913" size="1.778" layer="95"/>
-<attribute name="VALUE" x="158.496" y="68.199" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="158.496" y="68.199" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="160.02" y="63.5" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="160.528" y="61.722" size="1.778" layer="96"/>
 </instance>
@@ -27490,13 +27532,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C36" gate="G$1" x="233.68" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="234.442" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="232.156" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="232.156" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="233.68" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="234.696" y="91.44" size="1.778" layer="96"/>
 </instance>
 <instance part="C37" gate="G$1" x="248.92" y="93.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="249.682" y="96.393" size="1.778" layer="95"/>
-<attribute name="VALUE" x="247.396" y="98.679" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="247.396" y="98.679" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="248.92" y="93.98" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="249.936" y="91.44" size="1.778" layer="96"/>
 </instance>
@@ -27505,7 +27547,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C38" gate="G$1" x="223.52" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="224.282" y="78.613" size="1.778" layer="95"/>
-<attribute name="VALUE" x="221.996" y="80.899" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="221.996" y="80.899" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="223.52" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="224.536" y="73.66" size="1.778" layer="96"/>
 </instance>
@@ -28036,7 +28078,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C47" gate="G$1" x="203.2" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="203.962" y="114.173" size="1.778" layer="95"/>
-<attribute name="VALUE" x="201.676" y="116.459" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="201.676" y="116.459" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="203.2" y="111.76" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="203.962" y="110.236" size="1.778" layer="96"/>
 </instance>
@@ -28045,7 +28087,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C48" gate="G$1" x="195.58" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="196.342" y="114.173" size="1.778" layer="95"/>
-<attribute name="VALUE" x="194.056" y="116.459" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="194.056" y="116.459" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="195.58" y="111.76" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="196.342" y="110.236" size="1.778" layer="96"/>
 </instance>
@@ -28078,25 +28120,25 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C49" gate="G$1" x="154.94" y="134.62" smashed="yes">
 <attribute name="NAME" x="156.464" y="135.001" size="1.778" layer="95"/>
-<attribute name="VALUE" x="156.464" y="129.921" size="1.778" layer="96"/>
+<attribute name="VALUE" x="156.464" y="129.921" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="156.21" y="130.302" size="1.778" layer="96"/>
 <attribute name="MPN" x="154.94" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C50" gate="G$1" x="147.32" y="134.62" smashed="yes">
 <attribute name="NAME" x="148.844" y="135.001" size="1.778" layer="95"/>
-<attribute name="VALUE" x="148.844" y="129.921" size="1.778" layer="96"/>
+<attribute name="VALUE" x="148.844" y="129.921" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="148.59" y="130.302" size="1.778" layer="96"/>
 <attribute name="MPN" x="147.32" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C51" gate="G$1" x="139.7" y="134.62" smashed="yes">
 <attribute name="NAME" x="141.224" y="135.001" size="1.778" layer="95"/>
-<attribute name="VALUE" x="141.224" y="129.921" size="1.778" layer="96"/>
+<attribute name="VALUE" x="141.224" y="129.921" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="140.97" y="130.302" size="1.778" layer="96"/>
 <attribute name="MPN" x="139.7" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C52" gate="G$1" x="132.08" y="134.62" smashed="yes">
 <attribute name="NAME" x="133.604" y="135.001" size="1.778" layer="95"/>
-<attribute name="VALUE" x="133.604" y="129.921" size="1.778" layer="96"/>
+<attribute name="VALUE" x="133.604" y="129.921" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="133.35" y="130.302" size="1.778" layer="96"/>
 <attribute name="MPN" x="132.08" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
@@ -28114,13 +28156,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C53" gate="G$1" x="109.22" y="106.68" smashed="yes">
 <attribute name="NAME" x="110.744" y="107.061" size="1.778" layer="95"/>
-<attribute name="VALUE" x="110.744" y="101.981" size="1.778" layer="96"/>
+<attribute name="VALUE" x="110.744" y="101.981" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="109.22" y="106.68" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="104.648" y="102.362" size="1.778" layer="96"/>
 </instance>
 <instance part="C54" gate="G$1" x="124.46" y="106.68" smashed="yes">
 <attribute name="NAME" x="125.984" y="107.061" size="1.778" layer="95"/>
-<attribute name="VALUE" x="125.984" y="101.981" size="1.778" layer="96"/>
+<attribute name="VALUE" x="125.984" y="101.981" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="119.888" y="102.362" size="1.778" layer="96"/>
 <attribute name="MPN" x="124.46" y="106.68" size="1.778" layer="96" display="off"/>
 </instance>
@@ -28132,13 +28174,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C55" gate="G$1" x="96.52" y="83.82" smashed="yes" rot="R180">
 <attribute name="NAME" x="97.282" y="86.233" size="1.778" layer="95"/>
-<attribute name="VALUE" x="94.996" y="88.519" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="94.996" y="88.519" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="96.52" y="83.82" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="97.536" y="81.28" size="1.778" layer="96"/>
 </instance>
 <instance part="C56" gate="G$1" x="104.14" y="86.36" smashed="yes">
 <attribute name="NAME" x="105.664" y="86.741" size="1.778" layer="95"/>
-<attribute name="VALUE" x="105.664" y="81.661" size="1.778" layer="96"/>
+<attribute name="VALUE" x="105.664" y="81.661" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="105.41" y="82.042" size="1.778" layer="96"/>
 <attribute name="MPN" x="104.14" y="86.36" size="1.778" layer="96" display="off"/>
 </instance>
@@ -28150,13 +28192,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C57" gate="G$1" x="127" y="83.82" smashed="yes" rot="R180">
 <attribute name="NAME" x="127.762" y="86.233" size="1.778" layer="95"/>
-<attribute name="VALUE" x="125.476" y="88.519" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="125.476" y="88.519" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="127" y="83.82" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="128.016" y="81.28" size="1.778" layer="96"/>
 </instance>
 <instance part="C58" gate="G$1" x="149.86" y="86.36" smashed="yes">
 <attribute name="NAME" x="151.384" y="86.741" size="1.778" layer="95"/>
-<attribute name="VALUE" x="151.384" y="81.661" size="1.778" layer="96"/>
+<attribute name="VALUE" x="151.384" y="81.661" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="151.13" y="82.042" size="1.778" layer="96"/>
 <attribute name="MPN" x="149.86" y="86.36" size="1.778" layer="96" display="off"/>
 </instance>
@@ -28168,7 +28210,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C59" gate="G$1" x="119.38" y="83.82" smashed="yes" rot="R180">
 <attribute name="NAME" x="120.142" y="86.233" size="1.778" layer="95"/>
-<attribute name="VALUE" x="117.856" y="88.519" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="117.856" y="88.519" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="119.38" y="83.82" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="120.396" y="81.28" size="1.778" layer="96"/>
 </instance>
@@ -28180,13 +28222,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C60" gate="G$1" x="134.62" y="83.82" smashed="yes" rot="R180">
 <attribute name="NAME" x="135.382" y="86.233" size="1.778" layer="95"/>
-<attribute name="VALUE" x="133.096" y="88.519" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="133.096" y="88.519" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="134.62" y="83.82" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="135.382" y="82.296" size="1.778" layer="96"/>
 </instance>
 <instance part="C61" gate="G$1" x="142.24" y="83.82" smashed="yes" rot="R180">
 <attribute name="NAME" x="143.002" y="86.233" size="1.778" layer="95"/>
-<attribute name="VALUE" x="140.716" y="88.519" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="140.716" y="88.519" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="142.24" y="83.82" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="143.002" y="82.296" size="1.778" layer="96"/>
 </instance>
@@ -28221,7 +28263,7 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C62" gate="G$1" x="124.46" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="125.222" y="45.593" size="1.778" layer="95"/>
-<attribute name="VALUE" x="122.936" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="122.936" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="124.46" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="125.222" y="41.656" size="1.778" layer="96"/>
 </instance>
@@ -28885,13 +28927,13 @@ Source: www.kingbright.com</description>
 </instance>
 <instance part="C63" gate="G$1" x="152.4" y="109.22" smashed="yes" rot="R180">
 <attribute name="NAME" x="152.908" y="111.887" size="1.778" layer="95"/>
-<attribute name="VALUE" x="150.876" y="113.919" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="150.876" y="113.919" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="152.4" y="109.22" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="152.908" y="107.442" size="1.778" layer="96"/>
 </instance>
 <instance part="C64" gate="G$1" x="142.24" y="109.22" smashed="yes" rot="R180">
 <attribute name="NAME" x="143.002" y="111.633" size="1.778" layer="95"/>
-<attribute name="VALUE" x="140.716" y="113.919" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="140.716" y="113.919" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="142.24" y="109.22" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="143.256" y="106.68" size="1.778" layer="96"/>
 </instance>
@@ -29405,7 +29447,7 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C68" gate="G$1" x="43.18" y="124.46" smashed="yes" rot="R180">
 <attribute name="NAME" x="43.688" y="127.127" size="1.778" layer="95"/>
-<attribute name="VALUE" x="41.656" y="129.159" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="41.656" y="129.159" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="43.18" y="124.46" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="43.688" y="122.682" size="1.778" layer="96"/>
 </instance>
@@ -29417,7 +29459,7 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C72" gate="G$1" x="134.62" y="124.46" smashed="yes" rot="R180">
 <attribute name="NAME" x="135.128" y="127.127" size="1.778" layer="95"/>
-<attribute name="VALUE" x="133.096" y="129.159" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="133.096" y="129.159" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="134.62" y="124.46" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="135.128" y="122.682" size="1.778" layer="96"/>
 </instance>
@@ -30106,13 +30148,13 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C78" gate="G$1" x="175.26" y="114.3" smashed="yes">
 <attribute name="NAME" x="176.784" y="114.681" size="1.778" layer="95"/>
-<attribute name="VALUE" x="176.784" y="109.601" size="1.778" layer="96"/>
+<attribute name="VALUE" x="176.784" y="109.601" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="176.53" y="109.982" size="1.778" layer="96"/>
 <attribute name="MPN" x="175.26" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C79" gate="G$1" x="182.88" y="114.3" smashed="yes">
 <attribute name="NAME" x="184.404" y="114.681" size="1.778" layer="95"/>
-<attribute name="VALUE" x="184.404" y="109.601" size="1.778" layer="96"/>
+<attribute name="VALUE" x="184.404" y="109.601" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="184.15" y="109.982" size="1.778" layer="96"/>
 <attribute name="MPN" x="182.88" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
@@ -30144,7 +30186,7 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C80" gate="G$1" x="35.56" y="45.72" smashed="yes" rot="R180">
 <attribute name="NAME" x="36.322" y="48.133" size="1.778" layer="95"/>
-<attribute name="VALUE" x="34.036" y="50.419" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="34.036" y="50.419" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="35.56" y="45.72" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="36.576" y="43.18" size="1.778" layer="96"/>
 </instance>
@@ -30166,13 +30208,13 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C85" gate="G$1" x="101.6" y="45.72" smashed="yes" rot="R180">
 <attribute name="NAME" x="102.108" y="48.387" size="1.778" layer="95"/>
-<attribute name="VALUE" x="100.076" y="50.419" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="100.076" y="50.419" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="101.6" y="45.72" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="102.108" y="43.942" size="1.778" layer="96"/>
 </instance>
 <instance part="C86" gate="G$1" x="109.22" y="45.72" smashed="yes" rot="R180">
 <attribute name="NAME" x="109.728" y="48.387" size="1.778" layer="95"/>
-<attribute name="VALUE" x="107.696" y="50.419" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="107.696" y="50.419" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="109.22" y="45.72" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="109.728" y="43.942" size="1.778" layer="96"/>
 </instance>
@@ -30562,13 +30604,13 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C82" gate="G$1" x="33.02" y="132.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="33.782" y="134.493" size="1.778" layer="95"/>
-<attribute name="VALUE" x="31.496" y="136.779" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="31.496" y="136.779" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="33.02" y="132.08" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="34.036" y="129.54" size="1.778" layer="96"/>
 </instance>
 <instance part="C83" gate="G$1" x="129.54" y="134.62" smashed="yes">
 <attribute name="NAME" x="128.778" y="132.207" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="131.064" y="129.921" size="1.778" layer="96"/>
+<attribute name="VALUE" x="131.064" y="129.921" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="129.54" y="134.62" size="1.778" layer="96" display="off"/>
 <attribute name="C" x="128.524" y="137.16" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -30631,7 +30673,7 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C88" gate="G$1" x="22.86" y="50.8" smashed="yes" rot="R180">
 <attribute name="NAME" x="23.622" y="53.213" size="1.778" layer="95"/>
-<attribute name="VALUE" x="21.336" y="55.499" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="21.336" y="55.499" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="22.86" y="50.8" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="23.876" y="48.26" size="1.778" layer="96"/>
 </instance>
@@ -30671,13 +30713,13 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="C87" gate="G$1" x="147.32" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="147.828" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="145.796" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="145.796" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="147.32" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="147.828" y="41.402" size="1.778" layer="96"/>
 </instance>
 <instance part="C89" gate="G$1" x="134.62" y="43.18" smashed="yes" rot="R180">
 <attribute name="NAME" x="135.128" y="45.847" size="1.778" layer="95"/>
-<attribute name="VALUE" x="133.096" y="47.879" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="133.096" y="47.879" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="134.62" y="43.18" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="C" x="135.128" y="41.402" size="1.778" layer="96"/>
 </instance>
