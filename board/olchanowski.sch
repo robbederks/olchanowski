@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.0">
+<eagle version="9.6.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -26064,13 +26064,6 @@ Source: www.kingbright.com</description>
 <pinref part="R40" gate="G$1" pin="2"/>
 </segment>
 </net>
-<net name="TMC_STEP_X" class="0">
-<segment>
-<wire x1="137.16" y1="175.26" x2="160.02" y2="175.26" width="0.1524" layer="91"/>
-<label x="139.7" y="175.26" size="1.778" layer="95"/>
-<pinref part="IC1" gate="G$1" pin="P2[0]/PWM1[1]/TXD1"/>
-</segment>
-</net>
 <net name="TMC_STEP_Y" class="0">
 <segment>
 <wire x1="137.16" y1="172.72" x2="160.02" y2="172.72" width="0.1524" layer="91"/>
@@ -26078,32 +26071,11 @@ Source: www.kingbright.com</description>
 <pinref part="IC1" gate="G$1" pin="P2[1]/PWM1[2]/RXD1"/>
 </segment>
 </net>
-<net name="TMC_STEP_Z" class="0">
-<segment>
-<wire x1="137.16" y1="170.18" x2="160.02" y2="170.18" width="0.1524" layer="91"/>
-<label x="139.7" y="170.18" size="1.778" layer="95"/>
-<pinref part="IC1" gate="G$1" pin="P2[2]/PWM1[3]/CTS1/TRACEDATA[3]"/>
-</segment>
-</net>
 <net name="TMC_STEP_E" class="0">
 <segment>
 <wire x1="137.16" y1="167.64" x2="160.02" y2="167.64" width="0.1524" layer="91"/>
 <label x="139.7" y="167.64" size="1.778" layer="95"/>
 <pinref part="IC1" gate="G$1" pin="P2[3]/PWM1[4]/DCD1/TRACEDATA[2]"/>
-</segment>
-</net>
-<net name="TMC_DIR_X" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[5]/I2SRX_WS/TD2/CAP2[1]"/>
-<wire x1="48.26" y1="226.06" x2="30.48" y2="226.06" width="0.1524" layer="91"/>
-<label x="30.48" y="226.06" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="TMC_DIR_Y" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[11]/RXD2/SCL2/MAT3[1]"/>
-<wire x1="48.26" y1="210.82" x2="30.48" y2="210.82" width="0.1524" layer="91"/>
-<label x="30.48" y="210.82" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="TMC_DIR_Z" class="0">
@@ -26118,20 +26090,6 @@ Source: www.kingbright.com</description>
 <pinref part="IC1" gate="G$1" pin="P0[22]/RTS1/TD1"/>
 <wire x1="48.26" y1="190.5" x2="30.48" y2="190.5" width="0.1524" layer="91"/>
 <label x="30.48" y="190.5" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="TMC_ENN_X" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[4]/I2SRX_CLK/RD2/CAP2[0]"/>
-<wire x1="48.26" y1="228.6" x2="30.48" y2="228.6" width="0.1524" layer="91"/>
-<label x="30.48" y="228.6" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="TMC_ENN_Y" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[10]/TXD2/SDA2/MAT3[0]"/>
-<wire x1="48.26" y1="213.36" x2="30.48" y2="213.36" width="0.1524" layer="91"/>
-<label x="30.48" y="213.36" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="TMC_ENN_Z" class="0">
@@ -26578,6 +26536,48 @@ Source: www.kingbright.com</description>
 <wire x1="160.02" y1="127" x2="137.16" y2="127" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="P4[29]/TX_MCLK/MAT2[1]/RXD3"/>
 <label x="139.7" y="127" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="TMC_DIR_Y" class="0">
+<segment>
+<wire x1="48.26" y1="226.06" x2="30.48" y2="226.06" width="0.1524" layer="91"/>
+<label x="30.48" y="226.06" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P0[5]/I2SRX_WS/TD2/CAP2[1]"/>
+</segment>
+</net>
+<net name="TMC_ENN_Y" class="0">
+<segment>
+<wire x1="48.26" y1="228.6" x2="30.48" y2="228.6" width="0.1524" layer="91"/>
+<label x="30.48" y="228.6" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P0[4]/I2SRX_CLK/RD2/CAP2[0]"/>
+</segment>
+</net>
+<net name="TMC_STEP_Z" class="0">
+<segment>
+<wire x1="137.16" y1="175.26" x2="160.02" y2="175.26" width="0.1524" layer="91"/>
+<label x="139.7" y="175.26" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P2[0]/PWM1[1]/TXD1"/>
+</segment>
+</net>
+<net name="TMC_STEP_X" class="0">
+<segment>
+<wire x1="137.16" y1="170.18" x2="160.02" y2="170.18" width="0.1524" layer="91"/>
+<label x="139.7" y="170.18" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P2[2]/PWM1[3]/CTS1/TRACEDATA[3]"/>
+</segment>
+</net>
+<net name="TMC_DIR_X" class="0">
+<segment>
+<wire x1="48.26" y1="213.36" x2="30.48" y2="213.36" width="0.1524" layer="91"/>
+<label x="30.48" y="213.36" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P0[10]/TXD2/SDA2/MAT3[0]"/>
+</segment>
+</net>
+<net name="TMC_ENN_X" class="0">
+<segment>
+<wire x1="48.26" y1="210.82" x2="30.48" y2="210.82" width="0.1524" layer="91"/>
+<label x="30.48" y="210.82" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="P0[11]/RXD2/SCL2/MAT3[1]"/>
 </segment>
 </net>
 </nets>
