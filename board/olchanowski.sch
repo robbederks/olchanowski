@@ -24592,7 +24592,9 @@ Source: www.kingbright.com</description>
 <part name="+3V13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="GND38" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="FRAME4" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
-<part name="U5" library="microchip-smsc-lan8720" deviceset="LAN8720" device=""/>
+<part name="U5" library="microchip-smsc-lan8720" deviceset="LAN8720" device="">
+<attribute name="MPN" value="LAN8720A-CP-TR-ABC"/>
+</part>
 <part name="J4" library="robbe" deviceset="ARJM11D7-009-AB-ER2-T" device="">
 <attribute name="MPN" value="ARJM11D7-009-AB-ER2-T"/>
 </part>
@@ -25546,9 +25548,7 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="CRG0402F10K"/>
 <attribute name="R" value="10k"/>
 </part>
-<part name="J10" library="B4B-XH-A_LF__SN_" deviceset="B4B-XH-A(LF)(SN)" device="">
-<attribute name="AXIS" value="X"/>
-</part>
+<part name="J10" library="B4B-XH-A_LF__SN_" deviceset="B4B-XH-A(LF)(SN)" device=""/>
 <part name="GND128" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C88" library="robbe" deviceset="C" device="">
 <spice>
@@ -28077,6 +28077,7 @@ Source: www.kingbright.com</description>
 <instance part="U5" gate="G$1" x="63.5" y="129.54" smashed="yes">
 <attribute name="NAME" x="45.72" y="157.48" size="1.778" layer="95"/>
 <attribute name="VALUE" x="45.72" y="154.94" size="1.778" layer="96"/>
+<attribute name="MPN" x="63.5" y="129.54" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J4" gate="G$1" x="231.14" y="121.92" smashed="yes">
 <attribute name="NAME" x="226.06" y="119.38" size="1.27" layer="95"/>
@@ -30711,8 +30712,7 @@ of pull-ups and pull-downs. Nice.</text>
 <attribute name="VALUE" x="190.5" y="119.38" size="1.778" layer="96"/>
 </instance>
 <instance part="J10" gate="G$1" x="38.1" y="53.34" smashed="yes" rot="MR180">
-<attribute name="NAME" x="42.915890625" y="58.677159375" size="1.780209375" layer="95" rot="MR270"/>
-<attribute name="AXIS" x="35.052" y="57.404" size="1.778" layer="96" rot="MR270" display="both"/>
+<attribute name="NAME" x="35.810840625" y="44.947890625" size="1.780209375" layer="95" rot="MR180"/>
 </instance>
 <instance part="GND128" gate="1" x="48.26" y="38.1" smashed="yes">
 <attribute name="VALUE" x="45.72" y="35.56" size="1.778" layer="96"/>

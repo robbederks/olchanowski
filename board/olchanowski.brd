@@ -4730,6 +4730,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="108.845" y="13.226" size="0.762" layer="27" rot="R270" display="off"/>
 </element>
 <element name="U5" library="microchip-smsc-lan8720" package="QFN24" value="LAN8720" x="102.905" y="85.518" smashed="yes" rot="R270">
+<attribute name="MPN" value="LAN8720A-CP-TR-ABC" x="102.905" y="85.518" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="105.773" y="83.529" size="0.762" layer="25" rot="R90"/>
 <attribute name="VALUE" x="99.73" y="87.55" size="0.762" layer="27" rot="R270" display="off"/>
 </element>
@@ -4882,7 +4883,6 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="11.9558" y="29.4592" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="J10" library="B4B-XH-A_LF__SN_" package="JST_B4B-XH-A(LF)(SN)" value="B4B-XH-A(LF)(SN)" x="83.03" y="93.722" smashed="yes" rot="R270">
-<attribute name="AXIS" value="X" x="83.03" y="93.722" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DESCRIPTION" value=" Connector Header Through Hole 4 position 0.098 _2.50mm_ " x="83.03" y="93.722" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER" value="455-2249-ND" x="83.03" y="93.722" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DIGI-KEY_PURCHASE_URL" value="https://www.digikey.com/product-detail/en/jst-sales-america-inc/B4B-XH-A_LF__SN_/455-2249-ND/1651047?utm_source=snapeda&amp;utm_medium=aggregator&amp;utm_campaign=symbol" x="83.03" y="93.722" size="1.778" layer="27" rot="R270" display="off"/>
