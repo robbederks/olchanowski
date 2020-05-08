@@ -80,7 +80,7 @@ Let's fix that!
 | USB-C female connector                     | DX07S024XJ1R1100      | 1   |
 | Power connector                            | 282814-4              | 1   |
 | Power module                               | TPSM53602             | 1   |
-| P-Ch MOSFET                                | something SOT23       | 1   |
+| P-Ch MOSFET                                | DMP3099L-13           | 1   |
 | Ethernet PHY                               | LAN8720A-CP-TR-ABC    | 1   |
 | Inverter                                   | 74HC1G04              | 1   |
 | 3.3V regulator                             | NCP5661MN33T2G        | 1   |
