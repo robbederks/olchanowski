@@ -20441,8 +20441,8 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <symbol name="TPSM53602">
 <pin name="VIN" x="-5.08" y="5.08" length="middle" direction="pwr"/>
 <pin name="EN" x="-5.08" y="2.54" length="middle" direction="in"/>
-<pin name="PGND" x="7.62" y="-12.7" length="middle" direction="pwr" rot="R90"/>
-<pin name="AGND" x="12.7" y="-12.7" length="middle" direction="pwr" rot="R90"/>
+<pin name="PGND" x="10.16" y="-12.7" length="middle" direction="pwr" rot="R90"/>
+<pin name="AGND" x="17.78" y="-12.7" length="middle" direction="pwr" rot="R90"/>
 <pin name="FB" x="25.4" y="2.54" length="middle" direction="in" rot="R180"/>
 <pin name="VOUT" x="25.4" y="5.08" length="middle" direction="pwr" rot="R180"/>
 <pin name="V5V" x="7.62" y="22.86" length="middle" rot="R270"/>
@@ -20451,7 +20451,8 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <wire x1="0" y1="-7.62" x2="20.32" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="20.32" y1="-7.62" x2="20.32" y2="17.78" width="0.254" layer="94"/>
 <wire x1="20.32" y1="17.78" x2="0" y2="17.78" width="0.254" layer="94"/>
-<text x="15.24" y="-10.16" size="1.27" layer="95">&gt;NAME</text>
+<text x="20.32" y="-10.16" size="1.27" layer="95">&gt;NAME</text>
+<pin name="NC" x="2.54" y="-12.7" length="middle" direction="pwr" rot="R90"/>
 </symbol>
 <symbol name="NCP5661-1">
 <pin name="EN" x="-15.24" y="5.08" length="middle"/>
@@ -20735,9 +20736,10 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <devices>
 <device name="" package="B3QFN">
 <connects>
-<connect gate="G$1" pin="AGND" pad="GND1"/>
+<connect gate="G$1" pin="AGND" pad="12 GND1"/>
 <connect gate="G$1" pin="EN" pad="2"/>
 <connect gate="G$1" pin="FB" pad="9"/>
+<connect gate="G$1" pin="NC" pad="3 10 11"/>
 <connect gate="G$1" pin="PGND" pad="GND2 GND3 GND4 GND5 GND6 GND7 GND8 GND9 GND10 GND11 GND12 GND13 GND14"/>
 <connect gate="G$1" pin="PGOOD" pad="6"/>
 <connect gate="G$1" pin="V5V" pad="13"/>
@@ -29823,17 +29825,6 @@ of pull-ups and pull-downs. Nice.</text>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="P1" gate="G$1" pin="PGND"/>
-<wire x1="60.96" y1="119.38" x2="60.96" y2="116.84" width="0.1524" layer="91"/>
-<pinref part="P1" gate="G$1" pin="AGND"/>
-<wire x1="60.96" y1="116.84" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="63.5" y1="116.84" x2="66.04" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="116.84" x2="66.04" y2="119.38" width="0.1524" layer="91"/>
-<pinref part="GND88" gate="1" pin="GND"/>
-<wire x1="63.5" y1="114.3" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
-<junction x="63.5" y="116.84"/>
-</segment>
-<segment>
 <pinref part="R38" gate="G$1" pin="2"/>
 <pinref part="GND89" gate="1" pin="GND"/>
 <wire x1="81.28" y1="119.38" x2="81.28" y2="114.3" width="0.1524" layer="91"/>
@@ -29945,6 +29936,19 @@ of pull-ups and pull-downs. Nice.</text>
 <pinref part="GND97" gate="1" pin="GND"/>
 <wire x1="104.14" y1="121.92" x2="104.14" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="C72" gate="G$1" pin="1"/>
+</segment>
+<segment>
+<pinref part="P1" gate="G$1" pin="NC"/>
+<wire x1="55.88" y1="119.38" x2="55.88" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="116.84" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
+<pinref part="GND88" gate="1" pin="GND"/>
+<wire x1="63.5" y1="116.84" x2="63.5" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="P1" gate="G$1" pin="PGND"/>
+<wire x1="63.5" y1="119.38" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
+<junction x="63.5" y="116.84"/>
+<pinref part="P1" gate="G$1" pin="AGND"/>
+<wire x1="71.12" y1="119.38" x2="71.12" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="116.84" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$58" class="0">
