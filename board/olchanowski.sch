@@ -25355,7 +25355,9 @@ Source: www.kingbright.com</description>
 <attribute name="MPN" value="CRG0402F1K5"/>
 <attribute name="R" value="1k5"/>
 </part>
-<part name="Q9" library="robbe" deviceset="PFET" device="SM" package3d_urn="urn:adsk.eagle:package:2653225/3"/>
+<part name="Q9" library="robbe" deviceset="PFET" device="SM" package3d_urn="urn:adsk.eagle:package:2653225/3">
+<attribute name="MPN" value="DMP3099L-13"/>
+</part>
 <part name="+3V28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="C78" library="robbe" deviceset="C" device="">
 <spice>
@@ -30205,6 +30207,7 @@ of pull-ups and pull-downs. Nice.</text>
 </instance>
 <instance part="Q9" gate="G$1" x="185.42" y="144.78" smashed="yes">
 <attribute name="NAME" x="190.5" y="147.32" size="1.778" layer="95"/>
+<attribute name="MPN" x="185.42" y="144.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V28" gate="G$1" x="185.42" y="154.94" smashed="yes">
 <attribute name="VALUE" x="187.96" y="157.48" size="1.778" layer="96" rot="R180"/>
