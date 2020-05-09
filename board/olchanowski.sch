@@ -20028,18 +20028,18 @@ Version 0.1 (2014-01-04): Initial release.</description>
 <package name="ARJM11D7-009-AB">
 <hole x="5.715" y="0" drill="3.25"/>
 <hole x="-5.715" y="0" drill="3.25"/>
-<pad name="1" x="-4.445" y="6.35" drill="0.89"/>
-<pad name="3" x="-1.905" y="6.35" drill="0.89"/>
-<pad name="5" x="0.635" y="6.35" drill="0.89"/>
-<pad name="7" x="3.175" y="6.35" drill="0.89"/>
-<pad name="2" x="-3.175" y="8.89" drill="0.89"/>
-<pad name="4" x="-0.635" y="8.89" drill="0.89"/>
-<pad name="6" x="1.905" y="8.89" drill="0.89"/>
-<pad name="8" x="4.445" y="8.89" drill="0.89"/>
-<pad name="L1" x="-6.325" y="-4.9" drill="0.89"/>
-<pad name="L2" x="-3.785" y="-3.38" drill="0.89"/>
-<pad name="L3" x="3.785" y="-4.9" drill="0.89"/>
-<pad name="L4" x="6.325" y="-3.38" drill="0.89"/>
+<pad name="8" x="-4.445" y="6.35" drill="0.89"/>
+<pad name="6" x="-1.905" y="6.35" drill="0.89"/>
+<pad name="4" x="0.635" y="6.35" drill="0.89"/>
+<pad name="2" x="3.175" y="6.35" drill="0.89"/>
+<pad name="7" x="-3.175" y="8.89" drill="0.89"/>
+<pad name="5" x="-0.635" y="8.89" drill="0.89"/>
+<pad name="3" x="1.905" y="8.89" drill="0.89"/>
+<pad name="1" x="4.445" y="8.89" drill="0.89"/>
+<pad name="L1" x="-6.7945" y="-2.54" drill="0.89"/>
+<pad name="L2" x="-6.7945" y="-4.572" drill="0.89"/>
+<pad name="L3" x="6.7945" y="-2.54" drill="0.89"/>
+<pad name="L4" x="6.7945" y="-4.572" drill="0.89"/>
 <wire x1="-7.95" y1="-10.8" x2="7.95" y2="-10.8" width="0.127" layer="21"/>
 <wire x1="-7.95" y1="10.5" x2="7.95" y2="10.5" width="0.127" layer="21"/>
 <wire x1="7.95" y1="10.5" x2="7.95" y2="-10.8" width="0.127" layer="21"/>
