@@ -26530,20 +26530,6 @@ Source: www.kingbright.com</description>
 <label x="30.48" y="180.34" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="LED3" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[27]/SDA0/USB_SDA"/>
-<wire x1="48.26" y1="177.8" x2="30.48" y2="177.8" width="0.1524" layer="91"/>
-<label x="30.48" y="177.8" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="LED4" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="P0[28]/SCL0/USB_SCL"/>
-<wire x1="48.26" y1="175.26" x2="30.48" y2="175.26" width="0.1524" layer="91"/>
-<label x="30.48" y="175.26" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="BUZZER_GATE" class="0">
 <segment>
 <wire x1="160.02" y1="129.54" x2="137.16" y2="129.54" width="0.1524" layer="91"/>
@@ -26617,6 +26603,20 @@ Source: www.kingbright.com</description>
 <wire x1="20.32" y1="213.36" x2="17.78" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="213.36" x2="17.78" y2="210.82" width="0.1524" layer="91"/>
 <junction x="17.78" y="210.82"/>
+</segment>
+</net>
+<net name="LED3" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="P0[17]/CTS1/MISO0/MISO"/>
+<wire x1="48.26" y1="203.2" x2="30.48" y2="203.2" width="0.1524" layer="91"/>
+<label x="30.48" y="203.2" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="LED4" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="P1[31]/SCK1/AD0[5]"/>
+<wire x1="137.16" y1="180.34" x2="160.02" y2="180.34" width="0.1524" layer="91"/>
+<label x="139.7" y="180.34" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
