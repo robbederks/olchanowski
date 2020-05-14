@@ -3,7 +3,7 @@
 <eagle version="9.6.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -30600,17 +30600,6 @@ of pull-ups and pull-downs. Nice.</text>
 <junction x="101.6" y="60.96"/>
 </segment>
 </net>
-<net name="SENSER_CONN" class="0">
-<segment>
-<pinref part="R50" gate="G$1" pin="1"/>
-<wire x1="121.92" y1="60.96" x2="129.54" y2="60.96" width="0.1524" layer="91"/>
-<label x="142.24" y="60.96" size="1.778" layer="95"/>
-<pinref part="R52" gate="G$1" pin="1"/>
-<wire x1="129.54" y1="60.96" x2="160.02" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="63.5" x2="129.54" y2="60.96" width="0.1524" layer="91"/>
-<junction x="129.54" y="60.96"/>
-</segment>
-</net>
 <net name="N$63" class="0">
 <segment>
 <pinref part="X7" gate="-1" pin="S"/>
@@ -30624,13 +30613,24 @@ of pull-ups and pull-downs. Nice.</text>
 </net>
 <net name="SENSER_PROBE" class="0">
 <segment>
+<pinref part="R50" gate="G$1" pin="1"/>
+<wire x1="121.92" y1="60.96" x2="129.54" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="R52" gate="G$1" pin="1"/>
+<wire x1="129.54" y1="60.96" x2="160.02" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="63.5" x2="129.54" y2="60.96" width="0.1524" layer="91"/>
+<junction x="129.54" y="60.96"/>
+<label x="142.24" y="60.96" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="SENSER_CONN" class="0">
+<segment>
 <pinref part="R51" gate="G$1" pin="1"/>
 <wire x1="121.92" y1="55.88" x2="134.62" y2="55.88" width="0.1524" layer="91"/>
-<label x="142.24" y="55.88" size="1.778" layer="95"/>
 <pinref part="R53" gate="G$1" pin="1"/>
 <wire x1="134.62" y1="55.88" x2="160.02" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="63.5" x2="134.62" y2="55.88" width="0.1524" layer="91"/>
 <junction x="134.62" y="55.88"/>
+<label x="142.24" y="55.88" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
